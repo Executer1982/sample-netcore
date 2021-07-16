@@ -9,8 +9,7 @@
     </ItemGroup>
 
     <ItemGroup>
-
-        <PackageReference Include="Microsoft.Net.Sdk.Web"/>
+        <PackageReference Include="Microsoft.Net.Sdk.Web" Version="5.0.302"/>
     </ItemGroup>
 
     <ItemGroup>
